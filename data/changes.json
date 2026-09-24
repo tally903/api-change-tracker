@@ -1,0 +1,22 @@
+{
+  "captured_at": "2026-09-24",
+  "scope": "Dated entries visible in the primary provider release notes on the capture date; not a complete history.",
+  "changes": [
+    {
+      "date": "2026-09-22",
+      "provider": "OpenAI",
+      "kind": "release",
+      "title": "GPT-6 Sol and GPT-6 Luna released",
+      "details": "Released reasoning models gpt-6-sol and gpt-6-luna for the Responses and Chat Completions APIs. The release notes state text and image inputs and text generation.",
+      "source": "https://platform.openai.com/docs/changelog.md"
+    },
+    {
+      "date": "2026-09-22",
+      "provider": "Google",
+      "kind": "availability",
+      "title": "Gemini 3.8 Flash TTS models and Voices endpoint generally available",
+      "details": "Google marks Gemini 3.8 Flash TTS, Gemini 3.8 Flash-Lite TTS, and the Voices endpoint generally available.",
+      "source": "https://ai.google.dev/gemini-api/docs/changelog"
+    }
+  ]
+}
