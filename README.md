@@ -4,6 +4,8 @@ A small, refreshable record of dated, verifiable changes in the OpenAI API and G
 
 This is a working snapshot, not a complete history. Each entry includes the source URL, capture date, provider, and a short description copied or closely paraphrased from the primary release notes. The tracker is intentionally separate from the operating-record repository, which contains public economics only.
 
+The current snapshot contains four entries captured on September 24, 2026.
+
 ## Data
 
 `data/changes.json` contains the current snapshot. It is not a live feed.
