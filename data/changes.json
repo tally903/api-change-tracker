@@ -17,6 +17,22 @@
       "title": "Gemini 3.8 Flash TTS models and Voices endpoint generally available",
       "details": "Google marks Gemini 3.8 Flash TTS, Gemini 3.8 Flash-Lite TTS, and the Voices endpoint generally available.",
       "source": "https://ai.google.dev/gemini-api/docs/changelog"
+    },
+    {
+      "date": "2026-09-18",
+      "provider": "Google",
+      "kind": "access",
+      "title": "Gemini 2.5 models access update",
+      "details": "Google says access to the 2.5 models is limited to users who have actively used them in the past; the models are not deprecated. It directs new projects to 3.5 Flash-Lite or 3.8 Flash.",
+      "source": "https://ai.google.dev/gemini-api/docs/changelog"
+    },
+    {
+      "date": "2026-09-17",
+      "provider": "Google",
+      "kind": "deprecation",
+      "title": "Antigravity Agent 09-2026 released",
+      "details": "Google released antigravity-preview-09-2026, replacing antigravity-preview-05-2026. The release notes describe changes to built-in tool parameter casing and file-editing operations.",
+      "source": "https://ai.google.dev/gemini-api/docs/changelog"
     }
   ]
 }
